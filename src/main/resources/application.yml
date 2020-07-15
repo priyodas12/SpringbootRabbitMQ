@@ -1,0 +1,11 @@
+server:
+  port: 9923
+
+logging:
+  level:
+    root: INFO
+
+spring:
+  output:
+    ansi:
+      enabled: always
